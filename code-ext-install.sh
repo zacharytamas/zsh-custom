@@ -1,5 +1,6 @@
 code-insiders --install-extension aaron-bond.better-comments
 code-insiders --install-extension aaronthomas.vscode-snazzy-operator
+code-insiders --install-extension bierner.lit-html
 code-insiders --install-extension chiragpat.tomorrow-and-tomorrow-night-operator-mono-theme
 code-insiders --install-extension christian-kohler.npm-intellisense
 code-insiders --install-extension CoenraadS.bracket-pair-colorizer
