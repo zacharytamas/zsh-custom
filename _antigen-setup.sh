@@ -1,11 +1,10 @@
-source ~/antigen.zsh
+source $ZSH_CUSTOM/antigen.zsh
 
 antigen use oh-my-zsh
-antigen bundle zsh-users/zsh-syntax-highlighting
-antigen bundle zsh-users/zsh-apple-touchbar
+# antigen bundle zsh-users/zsh-syntax-highlighting
 antigen bundle unixorn/autoupdate-antigen.zshplugin
-antigen bundle zsh-autoenv
-antigen bundle gko/project
+# antigen bundle zsh-autoenv
+# antigen bundle gko/project
 antigen bundle command-not-found
 antigen theme https://github.com/denysdovhan/spaceship-prompt spaceship
 antigen apply
